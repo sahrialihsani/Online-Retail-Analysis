@@ -1,1 +1,1 @@
-"# Online-Retail-Analysis" 
+Proyek ini bertujuan untuk menganalisis data penjualan online dengan fokus pada preferensi pelanggan, tren penjualan, kategori produk yang diminati, dan faktor-faktor lain yang mempengaruhi pertumbuhan bisnis. Berikut adalah poin-poin penting dari proyek analisis penjualan online ini
